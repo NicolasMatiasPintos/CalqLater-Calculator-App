@@ -1,2 +1,1 @@
-# CalqLater-Calculator-App
-Normal calc, it's in Spanish so yeah that's that. You aint reading allat tho.
+These are just the raw files, no .exe included. The packages I used are declared in the requirements.txt file, create your own venv and use "pip install -r requirements.txt" to have the same packages.
